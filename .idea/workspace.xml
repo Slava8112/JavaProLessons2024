@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa32fa2a-4cf0-40d7-a0b0-5146af1476dc" name="Changes" comment="homeworkFour">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/homeworkjava/homeworkfive/BattleshipGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyeight/countdown/CountDownExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyeight/countdown/PersonInAirport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyeight/cyclicbarier/Funicular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyeight/cyclicbarier/FunicularExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyeight/cyclicbarier/PersonInFunicular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyeight/exchanger/ExchangeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyeight/exchanger/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyeight/semaphore/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyeight/semaphore/SemaphoreExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfive/ExampleFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfive/ExampleOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfive/ExampleThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfive/ExampleTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfive/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfive/TestCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfive/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfive/exampleApp/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfive/exampleApp/Monitoring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfive/exampleApp/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfour/MthExampleFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfour/MthExampleFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfour/MthExampleOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfour/MthExampleSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfour/MthExampleThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfour/MthExampleTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfour/ThreadFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfour/ThreadOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfour/ThreadSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfour/ThreadTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfour/arrayexample/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfour/arrayexample/MthCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfour/arrayexample/SumArrayApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfour/arrayexample/SumArrayMth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfour/hippodrom/HippApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyfour/hippodrom/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentynineth/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentynineth/BuildingApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentynineth/BuildingAppFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentynineth/BuildingAppThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentynineth/BuildingAppTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentynineth/CallableApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentynineth/CallableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentynineth/app/DummySummator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentynineth/app/Summator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentynineth/app/SummatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentynineth/mapexample/MapApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyseven/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyseven/ExampleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyseven/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyseven/crossBow/CrossBow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyseven/crossBow/CrossBowApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyseven/exampleapp/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyseven/exampleapp/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyseven/exampleapp/StorageApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyseven/exampleapp/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyseven/exampleapp/Unloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyseven/messagebroker/BrokerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyseven/messagebroker/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyseven/messagebroker/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentyseven/messagebroker/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentysix/CustomSync.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentysix/CustomSyncApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentysix/MthExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentysix/SyncImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentysix/TestSync.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentysix/example/ReaderThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentysix/example/WRApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentysix/example/WriterThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentysix/incorrect/MthExampleIncorrect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentysix/incorrect/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentysix/incorrect/SyncImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentysix/loadapp/LoadUnLoadApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentysix/loadapp/Loader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentysix/loadapp/UnLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentythree/ArrayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentythree/ArrayServiceApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentythree/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessontwentythree/CalculatorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/springlessons/lessonthirty/springbootdemo/controller/CoffeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/springlessons/lessonthirty/springbootdemo/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/springlessons/lessonthirty/springbootdemo/model/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/springlessons/lessonthirty/springbootdemo/repository/CoffeeInMemoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/springlessons/lessonthirty/springbootdemo/sevice/CoffeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/springlessons/lessonthirty/springbootdemo/sevice/CoffeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/springlessons/lessonthirtyone/example/ExampleApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/springlessons/lessonthirtyone/example/controller/ExampleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/springlessons/lessonthirtyone/example/repository/SimpleWordRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/springlessons/lessonthirtyone/example/repository/WordRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/springlessons/lessonthirtyone/example/service/ExampleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/springlessons/lessonthirtyone/example/service/ExampleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/springlessons/lessonthirtyone/example/service/ExampleServiceImplV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/prof/springlessons/lessonthirtyone/example/service/ExampleServiceImplV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/prof/lesson/lessontwentythree/ArrayServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/prof/lesson/lessontwentythree/CalculatorTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="XML Properties File" />
+        <option value="TornadoFX Code View" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Slava8112/homeworkOneJava.git&quot;,
+    &quot;accountId&quot;: &quot;157dfb73-30ca-46d5-81e3-f6adad4eed62&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cHIO3unK5n106MkcyzW4o4pwgo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnimalExample.executor": "Run",
+    "Application.ArrayServiceApp.executor": "Run",
+    "Application.BattleshipGame.executor": "Run",
+    "Application.BuildingApp.executor": "Run",
+    "Application.BuildingAppFour.executor": "Run",
+    "Application.BuildingAppThree.executor": "Run",
+    "Application.CalculatorApp.executor": "Run",
+    "Application.CallableApp.executor": "Run",
+    "Application.CountDownExample.executor": "Run",
+    "Application.Deal.executor": "Run",
+    "Application.ExampleApp.executor": "Run",
+    "Application.ExampleFour.executor": "Run",
+    "Application.ExampleOne.executor": "Run",
+    "Application.ExampleThree.executor": "Run",
+    "Application.ExampleTwo.executor": "Run",
+    "Application.FunicularExample.executor": "Run",
+    "Application.HippApp.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MthExample.executor": "Run",
+    "Application.MthExampleFive.executor": "Run",
+    "Application.MthExampleFour.executor": "Run",
+    "Application.MthExampleSix.executor": "Run",
+    "Application.MthExampleThree.executor": "Run",
+    "Application.MthExampleTwo.executor": "Run",
+    "Application.MyApp.executor": "Run",
+    "Application.SpringbootdemoApplication.executor": "Run",
+    "Application.SumArrayApp.executor": "Run",
+    "Application.SumArrayMth.executor": "Run",
+    "Application.com.telran.prof.homeworkjava.homeworkthree.Main.executor": "Run",
+    "Application.com.telran.prof.springlessons.lessonthirty.springbootdemo.MyApp.executor": "Run",
+    "Attach to process.pid 15293.executor": "ProcessAttachDebug",
+    "JUnit.ArrayServiceTest.testMax.executor": "Run",
+    "JUnit.ArrayServiceTest.testMin.executor": "Run",
+    "JUnit.ArrayServiceTest.testMinWhenArrayIsEmpty.executor": "Run",
+    "JUnit.CalculatorTest.executor": "Run",
+    "JUnit.CalculatorTest.testAdd.executor": "Run",
+    "JUnit.CalculatorTest.testSub.executor": "Run",
+    "JUnit.com.telran.prof.springlessons.lessonthirty in telranprof.executor": "Run",
+    "Maven.telranprof [spring-boot:run].executor": "Run",
+    "Maven.telranprof [spring-boot:start].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "dart.analysis.tool.window.visible": "false",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/home/slava/IdeaProjects/JavaPro2024/src/main/java/com/telran/prof/lesson",
+    "last_opened_file_path": "/home/slava/IdeaProjects/springbootdemo",
+    "onboarding.tips.debug.path": "/home/slava/IdeaProjects/JavaPro2024/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.TornadoFX",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.telran.prof.springbootdemo.src.test.java.com.telran.org.springbootdemo" />
+      <recent name="com.telran.prof.springbootdemo.src.main.java.com.telran.org.springbootdemo" />
+      <recent name="com.telran.prof.lesson.lessonseven.practice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/target" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/telran/prof/lessontwo" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.telran.prof.springbootdemo.src.main.java.com.telran.org.springbootdemo.sevices" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.telran.prof.lesson.lessontwentytwo.wildcard" />
+      <recent name="com.telran.prof.lesson.lessoneighteen.custom" />
+      <recent name="com.telran.prof.lesson.lessonthirteen.example" />
+      <recent name="com.telran.prof.test" />
+      <recent name="com.telran.prof.lesson.lessonten.selfWork" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.telran.prof.lesson.lessontwentythree" />
+      <recent name="com.telran.prof.lesson.lessoneleven" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.telran.prof.lesson.lessonseventeen.files" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn spring-boot:run" />
+      <command value="mvn spring-boot:start" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.com.telran.prof.springlessons.lessonthirty.springbootdemo.MyApp">
+    <configuration name="ExampleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.prof.springlessons.lessonthirtyone.example.ExampleApp" />
+      <module name="telranprof" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.prof.springlessons.lessonthirtyone.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.prof.springlesson.src.main.java.com.telran.org.springbootdemo.MyApp" />
+      <module name="telranprof" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.prof.springlesson.src.main.java.com.telran.org.springbootdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.prof.springbootdemo.src.main.java.com.telran.org.springbootdemo.MyApp" />
+      <module name="telranprof" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.prof.springbootdemo.src.main.java.com.telran.org.springbootdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.telran.prof.springlessons.lessonthirty.MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.prof.springlessons.lessonthirty.MyApp" />
+      <module name="telranprof" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.prof.springlessons.lessonthirty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.telran.prof.springlessons.lessonthirty.springbootdemo.MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.prof.springlessons.lessonthirty.springbootdemo.MyApp" />
+      <module name="telranprof" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.prof.springlessons.lessonthirty.springbootdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.telran.prof.springlessons.lessonthirty in telranprof" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="telranprof" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.prof.springlessons.lessonthirty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.prof.springlessons.lessonthirty" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JavaPro2024" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="JavaPro2024" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.telran.prof.springlessons.lessonthirty.springbootdemo.MyApp" />
+        <item itemvalue="Application.ExampleApp" />
+        <item itemvalue="JUnit.com.telran.prof.springlessons.lessonthirty in telranprof" />
+        <item itemvalue="Application.com.telran.prof.springlessons.lessonthirty.MyApp" />
+        <item itemvalue="Application.MyApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa32fa2a-4cf0-40d7-a0b0-5146af1476dc" name="Changes" comment="" />
+      <created>1707762043662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707762043662</updated>
+    </task>
+    <task id="LOCAL-00001" summary="homeworkOne">
+      <option name="closed" value="true" />
+      <created>1708287549319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708287549319</updated>
+    </task>
+    <task id="LOCAL-00002" summary="homeworkOne">
+      <option name="closed" value="true" />
+      <created>1708287717845</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708287717845</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homeworkTwo">
+      <option name="closed" value="true" />
+      <created>1708463752558</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708463752558</updated>
+    </task>
+    <task id="LOCAL-00004" summary="homeworkThree">
+      <option name="closed" value="true" />
+      <created>1716150344850</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716150344850</updated>
+    </task>
+    <task id="LOCAL-00005" summary="homeworkFour">
+      <option name="closed" value="true" />
+      <created>1716153501650</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716153501650</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="fbd06ba5-1550-4230-967b-204656a436fe" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="fbd06ba5-1550-4230-967b-204656a436fe">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/home/slava/IdeaProjects/JavaPro2024/src/main/java/com/telran/prof/homeworkOne" />
+                        <option value="dir:/home/slava/IdeaProjects/JavaPro2024/src/main/java/com/telran/prof/homeworkOne/task1" />
+                        <option value="dir:/home/slava/IdeaProjects/JavaPro2024/src/main/java/com/telran/prof/homeworkOne/task2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homeworkOne" />
+    <MESSAGE value="homeworkTwo" />
+    <MESSAGE value="homeworkThree" />
+    <MESSAGE value="homeworkFour" />
+    <option name="LAST_COMMIT_MESSAGE" value="homeworkFour" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/telran/prof/lesson/lessoneight/custom/CustomLinkedList.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/telran/prof/test/TestStackTaskTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/telran/prof/lesson/lessoneleven/queue/customdeque/CustomDequeApp.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.net.BindException" package="java.net" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
